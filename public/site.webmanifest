@@ -1,0 +1,21 @@
+{
+  "name": "ChemStock - Chemical and Dyes Selling Agency",
+  "short_name": "ChemStock",
+  "description": "Buy and sell chemicals and dyes with ease",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1e35",
+  "theme_color": "#0ec9ac",
+  "icons": [
+    {
+      "src": "/logo/logo.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo/logo.ico",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
